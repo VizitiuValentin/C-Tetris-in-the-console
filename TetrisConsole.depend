@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1638715041 source:c:\users\hog4m\desktop\codeblocks\tetrisconsole\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1638715041 source:c:\users\hog4m\desktop\tetrisconsole\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1639810398 source:c:\users\hog4m\desktop\proiecte c\tetrisconsole\main.c
+	"tetris_header.h"
+
+1639810326 source:c:\users\hog4m\desktop\proiecte c\tetrisconsole\tetris_functions.c
+	"tetris_header.h"
+
+1639810428 c:\users\hog4m\desktop\proiecte c\tetrisconsole\tetris_header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
